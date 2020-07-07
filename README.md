@@ -1,4 +1,4 @@
-# ![Screenshot](eye-logo-50x26.png) logonStatusTracker
+# ![Screenshot](eye-logo-50x26.PNG) logonStatusTracker
 
 - Version: 2.0
 - Author: Alex Evstafiev
