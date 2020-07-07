@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<Email>
+		<Server>smtp.domain.ru</Server>
+		<Port>25</Port>
+		<From>test.user@domain.ru</From>
+		<To>test.user@domain.ru</To>
+	</Email>
+</Settings>
