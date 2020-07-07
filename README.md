@@ -26,4 +26,4 @@ Send-MailMessage configration settings located in config.xml
 
 ## Scope
 
-Control the technical persoanl in local department.
+Control the technical personal in local department.
